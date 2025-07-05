@@ -10,3 +10,4 @@ public class soal2 {
         System.out.println(b);
     }
 }
+//git commit --date="2025-07-05T00:00:00+07:00" -m "Isi pesan"
