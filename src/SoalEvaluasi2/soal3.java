@@ -12,4 +12,4 @@ public class soal3 {
             System.out.println("False");
         }
     }
-}
+}//tes
